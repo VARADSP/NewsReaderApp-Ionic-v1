@@ -1,0 +1,15 @@
+{
+  "name": "helloWorldApplication_v1",
+  "app_id": "061673df",
+  "type": "ionic1",
+  "integrations": {
+    "gulp": {},
+    "cordova": {}
+  },
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
